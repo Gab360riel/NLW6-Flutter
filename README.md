@@ -1,7 +1,6 @@
 # payflow
 
-A new Flutter project.
-
+Projeto desenvolvido no Next Level Week(NLW) junto com a Rocketseat!
 ## Getting Started
 
 This project is a starting point for a Flutter application.
